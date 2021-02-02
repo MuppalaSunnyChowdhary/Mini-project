@@ -1,4 +1,4 @@
-# Mini-project-
+# Mini project 1
 A simple data analysis performed on bike sharing dataset
 
 This notebook documents the analysis and model development for the Bike Sharing Dataset. It contains the following steps:
